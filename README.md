@@ -1,8 +1,8 @@
 # Teaching
 
-Este repositório contém minhas notas pessoais sobre as disciplinas que ministrei.
+This repository contains my personal notes about the subjects I taught (in Portuguese).
 
-## Disciplinas
+## Courses
 
 - Arquitetura e Organização de Computadores (aorga)
 - Algoritmos e Estrutura de Dados Avançado (aed)
