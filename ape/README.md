@@ -1,11 +1,13 @@
 # Algoritmos e Programação Estruturada
 
+2024.1
+
 Conceitos de algoritmos e programação. Componentes e elementos de linguagem de programação. Operações e expressões. Estruturas de decisão condicional. Estruturas de repetição condicional. Estruturas de repetição determinísticas. Procedimentos e funções. Escopo e passagem de parâmetros. Recursividade. Listas. Pilhas. Filas.
 
 Os Jupyter Notebooks usam o *kernel* C : https://github.com/XaverKlemenschits/jupyter-c-kernel
 
 
-## Bibliografia
+## Referências
 
 ![](img/rovai.png)
 

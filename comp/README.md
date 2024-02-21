@@ -1,10 +1,8 @@
 # Compiladores
 
-*Última modificação: 2023-08-23*
+*Última edição: 2023-08-23*
 
-Este repositório contém minhas notas pessoais
-
-## Assuntos principais
+2023.2 | 2020.2
 
 - Estrutura de um compilador
 - Fundamentos de linguagens formais
