@@ -1,6 +1,6 @@
 # Algoritmos e Programação Estruturada
 
-2024-02-01
+*2024-02-01*
 
 Conceitos de algoritmos e programação. Componentes e elementos de linguagem de programação. Operações e expressões. Estruturas de decisão condicional. Estruturas de repetição condicional. Estruturas de repetição determinísticas. Procedimentos e funções. Escopo e passagem de parâmetros. Recursividade. Listas. Pilhas. Filas.
 
