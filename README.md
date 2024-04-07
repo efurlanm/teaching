@@ -38,13 +38,13 @@ This repository contains my personal notes related to the subjects I teach (in P
 * Teoria das Estruturas (testr)
 * Técnicas de Programação (tprog)
 
-## Teaching material (in Portuguese)
+## Teaching material
 
-### 2023 26º EAC conference
+### 2023 26º EAC conference (in Portuguese)
 
 Website: <https://eac.pgsscogna.com.br/anais/edicao-ano.php?ano=2023>
 
-Published articles:
+Artigos publicados:
 
 * BARONE, H. M., CONCEICAO, L. M. D., LETÍCIA DE ALMEIDA FERREIRA, AMORIM, L. O. D., OLIVEIRA, G. L. D., FERNANDES, R. E. D. S., BARRETO, V. N. D. A., & Miranda, E. F. (2023). Programação e Desenvolvimento de Banco de Dados. <https://eac.pgsscogna.com.br/anais/edicao-ano.php?ano=2023#trab22921>
 * FILENO, J. D. S., SILVA, G. C., SANTOS, E. D. R., MARCOLINO, A. S. D. A., LIDUINO, T. D. J., FACCI, R., GARCIA, G. M. D. P., & Miranda, E. F. (2023). Passo a Passo da Criação de um Robô com Placa de Arduino. <https://eac.pgsscogna.com.br/anais/edicao-ano.php?ano=2023#trab22061>
@@ -56,7 +56,7 @@ Published articles:
 * SOUZA, L. D. A., KIMURA, H. T., NARDINI, D. A., SANTOS, L. S. D., POMA, K. G. S., SILVA, E. J. A. V. D., & Miranda, E. F. (2023). Fases da Compilação na Utilização do Arduino Uno. <https://eac.pgsscogna.com.br/anais/edicao-ano.php?ano=2023#trab23575>
 * SOUZA, L. D. A., SILVA, E. J. A. V. D., SANTOS, L. S. D., SAMO, K., NARDINI, D. A., KIMURA, H. T., & Miranda, E. F. (2023). Utilização do Microcontrolador Arduino para a Construção de um Robô Seguidor de Linha. <https://eac.pgsscogna.com.br/anais/edicao-ano.php?ano=2023#trab22099>
 
-### 2023 classroom material
+### 2023 classroom material (in Portuguese)
 
 * Miranda, E. F. (2023a). Análise de falhas e cálculo de esforços. <http://repositorio.pgsskroton.com/handle/123456789/59641>
 * Miranda, E. F. (2023b). Análise dimensional e estrutural. <http://repositorio.pgsskroton.com/handle/123456789/59642>
