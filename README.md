@@ -8,7 +8,8 @@ This repository contains my personal notes related to the subjects I teach (in P
 
 * Arquitetura e Organização de Computadores
 * Lógica e Matemática Computacional
-* Projeto Integrado
+* Redes de Comunicação Industrial
+* Projeto Integrado II
 
 ### Past (in Portuguese)
 
