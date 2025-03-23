@@ -31,5 +31,4 @@
 - MANZANO, J. A. N. G.; OLIVEIRA, J. F. de. Algoritmos lógica para desenvolvimento de programação de computadores. 12 ed. São Paulo Érica 2001.
 - DEITEL, H. M. Python. Upper Saddle River, N.J. Prentice Hall. 2002.
 
-
-<br><sub>Last edited: 2025-02-23 11:19:23</sub>
+<br><sub>Last edited: 2025-02-23 11:19:22</sub>

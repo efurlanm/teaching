@@ -85,5 +85,4 @@
   * Programa da disciplina: https://homepages.dcc.ufmg.br/~dorgival/dokuwiki/doku.php?id=fundamentos_de_sistemas_paralelos_e_distribuidos
   * Vídeos: https://www.youtube.com/playlist?list=PL-blDbur9o_59jeRUU0f6NdL-l3H9EKXX
 
-
-<br><sub>Last edited: 2025-02-23 11:18:07</sub>
+<br><sub>Last edited: 2025-02-23 11:18:06</sub>
