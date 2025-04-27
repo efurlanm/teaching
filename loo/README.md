@@ -65,11 +65,10 @@
 
 ## Projeto final da disciplina
 
-- [Links de interesse e algumas informações adicionais](https://github.com/efurlanm/teaching/blob/main/sdm/projeto.md)
+- [Links de interesse e algumas informações adicionais](https://github.com/efurlanm/teaching/blob/main/projeto.md)
 
 ## Material
 
 - [Pasta compartilhada no Google Drive](https://drive.google.com/drive/folders/1wlkBIcKHDTdjmopo-5cJ-stTVTWylWlV)
 
-
-<br><sub>Last edited: 2025-02-23 11:42:15</sub>
+<br><sub>Last edited: 2025-04-25 14:13:04</sub>
