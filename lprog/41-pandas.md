@@ -1,7 +1,5 @@
 # Introdução ao Pandas
 
-![out.png](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQ4AAAEOAQMAAABCf2vmAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAHwSURBVGiB7ZnRjcQgDEQtUUBKonVKogAknz0DHNGdlO+RQNFmA28/HJux8Zp/DrvIRS7yjViO6r3GzXs+lF7nF00k773G9MCcPfHckuKSItKNE/a0+BxPzOQv4k1IIznRbQQVDnzc9ZFB73njujaCwAwfFvhwwHr/J3ZlEIoHg/G4/uqLDMIxUgsr3NjgzzUEESi6UTnC+jT2aQOXKEITBxZjOllYn69BExlUC3gylANXgod4iCFh33QgQtJsauThRjEENcU53VBinAIvhsDKtlNWLDJave/AFEOQprKMpQT+VrLdiiqSG2sLfDwyX8WeE0asjl3JZqjau1BSQ1LXc5GyAZmHohyBqYWwmOURytY+ozOLJkJpT/2DrWNusszMokgOHDgo8BmkRoE3UQTVRKMDC5IwrXffSVgMiS21BL7xODgVEYcqRQRnwcaDYOmzXKI6iiLQDGOtlNK4AvNMwloIUxNrPSZeCvzrlCWFoFeU24stPV9Z6xAPPWSCR0hyn6kikED2JtHSq5D5lZAFEQ70j5fAs6Msi9A+lhKruMgXwMpCEUE9Xn02JhstnlEpirA1zj4EWuMMTNitjFDgYTG08OVGRQRZa/+PsR5FEWez37cPfXVhRRGKh82/mLK+GOhMHEaLIR/jIhe5yMf4Af92AeK3hTYsAAAAAElFTkSuQmCC)
-
 Dentre as diversas bibliotecas disponíveis no repositório PyPI, pandas é um pacote Python que fornece estruturas de dados projetadas para facilitar o trabalho com dados estruturados (tabelas) e de séries temporais.
 
 Estruturas de dados:
@@ -2769,8 +2767,3 @@ df_bancos.dtypes
     dtype: object
 
 
-
-
-```python
-
-```

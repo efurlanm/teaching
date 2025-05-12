@@ -1,8 +1,3 @@
-![out.png](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQ4AAAEOAQMAAABCf2vmAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAHzSURBVGiB7ZlRisMwDEQFPkCO5Kv7SDmAQSvNyEnaLeR7wCaUxH35UC2Pxqr567CNbGQj74jl6HG1eDj7PHwew8+cbZoIvwkE9yOpwM9eXykip8VEfEasASLizpekEcPSxb37wBvySNzMlZvB/gpaB8F0pGTsrVzJI1n/kbsyCMWDS/e4/uuLDMIRKthSNowZes0rIrFu0MIxET6zko9NE4knJmND6HgcDVvQVZEM2lLdM1wqYhbhWE9RBFYixAMlq3ZY3M9bDsUQ6kQqelqkO0mhkapI+qNVsloW4ZJJ10TKGa0MRdUaaS5qShCxKsUQ+EpSR02WRWj0bMJWTGghZb5pIo3KxwnqeqbqV+4qIQiap437Dew/F0XSVuQ1JkrxxD5LT3EXYTUEiTkBolLlMvKzaSI0SimEq/xyDT+chxQC2egXizNiHeJ1ERZhLCYNoFFCRBFOMyVndsKMW+1x4BBDKBtoPJSh4CbjL6GIIMROH4EmBMKFt1VF8ITQL6qvZpgkQi3kuZANCXoKdsUUEQ52Vmgl6uQhi+SRcAk8d9jVDxNFYMb7ah5b9ldOBv3194UOslrjE7lZpgm/hDQyrXrJzlYlipg2UqW4zvE877oo4tXsf3T6zT+MkhjCHITAs0Fu1YV9nkmkkJexkY1s5GX8AXJgNO56irxiAAAAAElFTkSuQmCC)
-
-- Em duplas, valendo nota
-- Refazer estes exercícios no seu Notebook
-
 # Introdução à manipulação de dados em Pandas
 
 - A biblioteca pandas foi desenvolvida para trabalhar com dados estruturados, ou seja, dados dispostos em linhas e colunas.
@@ -4051,9 +4046,4 @@ for data in rows:
 
 ```python
 conn.close()
-```
-
-
-```python
-
 ```
