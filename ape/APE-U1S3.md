@@ -265,3 +265,4 @@ int main () {
 
     String = Laranja,  Address = 0x55802c2b2890
 
+<br><sub>Last edited: 2023-12-18 23:49:45</sub>

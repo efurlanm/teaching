@@ -39,5 +39,8 @@
 - TANGON, L. G.; SANTOS, R. C. Arquitetura e organização de computadores. EDE, 2016. ISBN 978-85-8482-382-6.
 - STALLINGS, William. Arquitetura e organização de computadores. 10.ed. São Paulo: Pearson Pratice Hall, 2018.
 
+## Notas
 
-<br><sub>Last edited: 2025-02-23 11:40:18</sub>
+Este repositório foi desenvolvido com o suporte de ferramentas de inteligência artificial, como Copilot, para otimizar processos, oferecer sugestões e aprimorar a eficiência do trabalho. No entanto, todas as informações passaram por revisão criteriosa, testes e validação, garantindo precisão e confiabilidade. A IA foi utilizada como um recurso complementar para acelerar o desenvolvimento, sem substituir a análise crítica, a tomada de decisão e a autoria humana.
+
+<br><sub>Last edited: 2025-05-12 15:54:39</sub>

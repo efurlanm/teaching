@@ -338,3 +338,4 @@ int main(){
     Endereço que está armazenado no ponteiro: 0x7ffc263a2d5c
     Conteúdo da memória apontada pelo ponteiro: 2018
 
+<br><sub>Last edited: 2024-01-07 12:15:03</sub>

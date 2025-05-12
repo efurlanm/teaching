@@ -230,4 +230,4 @@ executar_quicksort(lista, inicio=0, fim=len(lista) - 1)
 
     [-1, 3, 5, 8, 9, 10, 11]
 
-
+<br><sub>Last edited: 2024-01-22 12:06:02</sub>

@@ -509,3 +509,5 @@ void Ordena(Lista * l) {
 printf(“\n Lista Ordenada”);
 Ordena(listaFinal);
 ```
+
+<br><sub>Last edited: 2024-01-11 22:23:48</sub>

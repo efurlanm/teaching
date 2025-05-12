@@ -85,5 +85,8 @@
   * Programa da disciplina: https://homepages.dcc.ufmg.br/~dorgival/dokuwiki/doku.php?id=fundamentos_de_sistemas_paralelos_e_distribuidos
   * Vídeos: https://www.youtube.com/playlist?list=PL-blDbur9o_59jeRUU0f6NdL-l3H9EKXX
 
+## Notas
 
-<br><sub>Last edited: 2025-02-23 11:18:07</sub>
+Este repositório foi desenvolvido com o suporte de ferramentas de inteligência artificial, como Copilot, para otimizar processos, oferecer sugestões e aprimorar a eficiência do trabalho. No entanto, todas as informações passaram por revisão criteriosa, testes e validação, garantindo precisão e confiabilidade. A IA foi utilizada como um recurso complementar para acelerar o desenvolvimento, sem substituir a análise crítica, a tomada de decisão e a autoria humana.
+
+<br><sub>Last edited: 2025-05-12 15:54:56</sub>

@@ -145,5 +145,8 @@
 * [LUCRÉDIO, D.](https://bv.fapesp.br/pt/pesquisador/11567/daniel-lucredio/). Linguagens Formais e Autômatos. https://www.youtube.com/playlist?list=PLaPmgS59eMSGBPhHwyDLUzFrtTsc2yHJt
 * [LITTIKE, K. A.](https://scholargps.com/scholars/20283965333364/kaio-alan-littike). MINIMIZAÇÃO DE AFD'S | Autômato finito determinístico | Linguagens formais e autômatos. https://www.youtube.com/watch?v=gU6SN2PeDjg 
 
+## Notas
 
-<br><sub>Last edited: 2025-02-23 11:18:58</sub>
+Este repositório foi desenvolvido com o suporte de ferramentas de inteligência artificial, como Copilot, para otimizar processos, oferecer sugestões e aprimorar a eficiência do trabalho. No entanto, todas as informações passaram por revisão criteriosa, testes e validação, garantindo precisão e confiabilidade. A IA foi utilizada como um recurso complementar para acelerar o desenvolvimento, sem substituir a análise crítica, a tomada de decisão e a autoria humana.
+
+<br><sub>Last edited: 2025-05-12 15:55:04</sub>

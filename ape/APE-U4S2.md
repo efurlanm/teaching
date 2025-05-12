@@ -180,3 +180,5 @@ int main() {
     } while ( * s != 'q');
 }
 ```
+
+<br><sub>Last edited: 2024-01-12 14:46:38</sub>

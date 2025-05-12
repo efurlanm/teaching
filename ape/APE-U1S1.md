@@ -634,3 +634,5 @@ print(f"\n Resposta: a = {a:.2f} e b = {b:.2f} \n")
      Resposta: a = 3.14 e b = 1.23 
 
 <https://www.pythonmorsels.com/string-formatting/>
+
+<br><sub>Last edited: 2025-02-01 12:21:31</sub>

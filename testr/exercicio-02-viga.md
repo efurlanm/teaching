@@ -157,3 +157,5 @@ print("VA=", VA, "kN")
 
 
 Agora para complementar o exercício, vá mudando as variáveis com distância e forças, e dê "restart & re-run" para ver os novos resultados.
+
+<br><sub>Last edited: 2020-03-24 11:58:12</sub>

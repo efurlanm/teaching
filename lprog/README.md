@@ -31,4 +31,8 @@
 - MANZANO, J. A. N. G.; OLIVEIRA, J. F. de. Algoritmos lógica para desenvolvimento de programação de computadores. 12 ed. São Paulo Érica 2001.
 - DEITEL, H. M. Python. Upper Saddle River, N.J. Prentice Hall. 2002.
 
-<br><sub>Last edited: 2025-02-23 11:19:22</sub>
+## Notas
+
+Este repositório foi desenvolvido com o suporte de ferramentas de inteligência artificial, como Copilot, para otimizar processos, oferecer sugestões e aprimorar a eficiência do trabalho. No entanto, todas as informações passaram por revisão criteriosa, testes e validação, garantindo precisão e confiabilidade. A IA foi utilizada como um recurso complementar para acelerar o desenvolvimento, sem substituir a análise crítica, a tomada de decisão e a autoria humana.
+
+<br><sub>Last edited: 2025-05-12 15:54:46</sub>

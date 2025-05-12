@@ -39,3 +39,4 @@ END PROGRAM mpi_example
      Processo 0 enviou a mensagem:          42
      Processo 1 recebeu a mensagem:          42
 
+<br><sub>Last edited: 2025-04-16 10:57:11</sub>

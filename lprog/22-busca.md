@@ -166,3 +166,5 @@ f(n) = an² + bn + c
 
 - identifica-se o termo dominante n² , e o resto é ignorado
 - resulta em uma complexidade de O(n²)
+
+<br><sub>Last edited: 2025-03-20 12:48:10</sub>

@@ -389,3 +389,5 @@ executar_quicksort(lista, inicio=0, fim=len(lista)-1)
 ```python
 
 ```
+
+<br><sub>Last edited: 2024-03-19 12:04:59</sub>

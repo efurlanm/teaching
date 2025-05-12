@@ -155,3 +155,4 @@ int main() {
     Dadas as medidas: 10, 10, 10, temos um triangulo.
     Este é um triangulo EQUILATERO! 
 
+<br><sub>Last edited: 2023-12-18 23:49:57</sub>
