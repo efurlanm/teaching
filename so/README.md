@@ -1,6 +1,6 @@
 # Sistemas Operacionais
 
-1º sem 2024
+1º sem 2024 e 1º sem 2025
 
 ## Ementa
 
@@ -24,5 +24,4 @@
 
 - BARBOSA, C. da S. *Sistemas Operacionais*. Londrina: EDE SA, 2018. ISBN 978-85-522-1177-8.
 
-
-<br><sub>Last edited: 2025-02-23 11:53:34</sub>
+<br><sub>Last edited: 2025-05-12 15:41:17</sub>
