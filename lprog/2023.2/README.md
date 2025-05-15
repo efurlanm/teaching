@@ -10,4 +10,4 @@ Caracterização das linguagens de programação de computadores e de seus difer
 - GUEDES, Sérgio (Org.). *Lógica de programação algorítmica*. São Paulo: Pearson Education Brasil, 2014.
 - SEBESTA, Robert W. *Conceitos de linguagens de programação*. 9. ed. Porto Alegre: Bookman, 2011.
 
-<br><sub>Last edited: 2024-11-23 10:45:00</sub>
+<br><sub>Last edited: 2025-05-13 13:25:50</sub>

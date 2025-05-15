@@ -89,4 +89,4 @@
 
 Este repositório foi desenvolvido com o suporte de ferramentas de inteligência artificial, como Copilot, para otimizar processos, oferecer sugestões e aprimorar a eficiência do trabalho. No entanto, todas as informações passaram por revisão criteriosa, testes e validação, garantindo precisão e confiabilidade. A IA foi utilizada como um recurso complementar para acelerar o desenvolvimento, sem substituir a análise crítica, a tomada de decisão e a autoria humana.
 
-<br><sub>Last edited: 2025-05-12 15:54:56</sub>
+<br><sub>Last edited: 2025-05-13 13:26:11</sub>

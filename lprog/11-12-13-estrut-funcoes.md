@@ -719,4 +719,4 @@ somar(3, 5)
 
     -2
 
-<br><sub>Last edited: 2023-08-28 20:31:14</sub>
+<br><sub>Last edited: 2025-05-13 13:25:42</sub>
