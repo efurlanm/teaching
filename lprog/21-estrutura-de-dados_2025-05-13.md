@@ -886,4 +886,3 @@ myvar.info()
     dtypes: int64(2)
     memory usage: 176.0 bytes
 
-<br><sub>Last edited: 2025-05-13 13:25:43</sub>
