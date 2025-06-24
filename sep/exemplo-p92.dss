@@ -1,0 +1,38 @@
+Set DefaultBaseFrequency=60  !! Define frequência de 60Hz
+Set Datapath=C:\ODSS\        !! Define o caminho dos arquivos
+!! clear
+
+!! Equivalente da subestação
+new circuit.example basekV=138 pu=1.0 angle=0 frequency=60 phases=3
+
+!! Transformador da Subestação
+new transformer.Sub phases=3 windings=2 buses=(sourcebus, B1)
+    conns=(delta, wye) kvs=(138, 13.8) kvas=(30000, 30000) %loadloss=0 xhl=10
+
+!! Transformador abaixador
+new transformer.TLV phases=3 windings=2 buses=(B2, B3)
+    conns=(delta, wye) kvs=(13.8, 0.22) kvas=(10000, 10000) %loadloss=0 xhl=5
+
+!! Linha
+!! rmatrix = [R11 | R21 R22| R31 R32 R33]
+!! xmatrix = [X11 | X21 X22| X31 X32 X33]
+!! cmatrix = [C11 | C21 C22| C31 C32 C33]
+new linecode.ABC nphases=3 units=km
+rmatrix=[ 2.504093 | 0.3798523 2.605409 |  0.3676533  0.3996573 2.517093 ]
+xmatrix=[ 1.924003 | 0.35      1.937004 |  0.37       0.40      1.917007 ]
+cmatrix=[ 2.8      | -0.6      2.9      | -0.5       -0.7       2.7      ]
+new line.lineA-B bus1=B1 bus2=B2 length=2 phases=3 units=km linecode=ABC
+
+!! Carga
+new load.CARGAa bus1=B3.1 phases=1 kV=0.127 kW=2000 kvar=640 model=1 conn=wye
+new load.CARGAb bus1=B3.2 phases=1 kV=0.127 kW=1000 kvar=330 model=1 conn=wye
+new load.CARGAc bus1=B3.3 phases=1 kV=0.127 kW=1500 kvar=540 model=1 conn=wye
+
+!! Capacitor
+new Capacitor.Cp bus1=B2 phases=3 kV=13.8 kvar=5000
+
+set voltagebases=[138 13.8 0.22]
+calcVoltageBases
+set controlmode=static
+set mode=snapshot
+solve
