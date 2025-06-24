@@ -1,0 +1,69 @@
+# PASCAL
+
+Pascal e C compartilham origens próximas, influências, e propósitos. Ambas foram desenvolvidas para serem compiladas e implementar seus próprios compiladores. Ambas são descendentes da linguagem Algol, e ambas compartilham várias características em comum. Pascal é uma linguagem de alto nível, e C de médio nível, o que significa que Pascal é mais amigável, é mais independente da plataforma, e está mais próxima do programador do que do dispositivo. Nenhuma é melhor que a outra, cada uma tem a sua aplicação. Alguns ambientes de desenvolvimento rápido utilizam as duas, de tal forma que uma complementa a outra, usando o que as duas têm de melhor
+
+Implementação de código livre e ativamente desenvolvida: http://freepascal.org
+
+
+## APLICAÇÕES
+
+(Somente algumas)
+
+- A pesquisa por [site:catho.com.br "pascal" OR "delphi"](https://www.google.com/search?q=site%3Acatho.com.br+%22pascal%22+OR+%22delphi%22) no Google retorna 5.840 resultados
+
+- A pesquisa por ["pascal" OR "delphi"](https://github.com/search?q=delphi+OR+pascal) no Github retorna 19.491 resultados (Visual Basic retorna 6.919)
+
+- No [IEE Ranking ](https://spectrum.ieee.org/static/interactive-the-top-programming-languages-2019)está na posição 35, de um total de 52
+
+- [Delphi](https://en.wikipedia.org/wiki/Delphi_(software)), [RAD Studio](https://en.wikipedia.org/wiki/RAD_Studio), [InteBase](https://en.wikipedia.org/wiki/InterBase), e [Lazarus](https://en.wikipedia.org/wiki/Lazarus_(IDE)) - ambientes de desenvolvimento
+
+- [Oxigene](https://en.wikipedia.org/wiki/Oxygene_(programming_language)) - ambiente de programação RAD e linguagem de programação baseada em Delphi Object Pascal
+
+- [Pascal Script](https://en.wikipedia.org/wiki/Pascal_Script) - linguagem de programação de *script* baseada em Pascal, e parcialmente compatível com Delphi, Free Pascal, e GNU Pascal
+
+- [Sistemas de automação e controle industrial](https://iopscience.iop.org/article/10.1088/1755-1315/194/2/022044/pdf) - "Automation of monitoring and management of conveyor shop oil-pumping station of coal industry enterprise"
+
+- [Robótica e simulação](https://bibliotecadigital.ipb.pt/bitstream/10198/20934/1/icarsc2019HLRAFL_ISIScopus.pdf) - "Hardware-in-the-loop simulation approach for the Robot at Factory Lite competition proposal"
+
+- [Skype](https://blog.marcocantu.com/blog/why_skype_used_delphi.html) - usado em algumas partes do aplicativo de comunicação
+
+- [Classic Mac OS](https://en.wikipedia.org/wiki/Macintosh_Programmer%27s_Workshop) - sistema operacional
+
+- [Peazip](https://en.wikipedia.org/wiki/Peazip "Peazip") - compressão e arquivamento
+
+- [TorChat](https://en.wikipedia.org/wiki/TorChat "TorChat") - originalmente escrito em Python, foi reescrito em Pascal
+
+- [KMPlayer](https://www.wikidata.org/wiki/Q753174) - media player do KDE (gerenciador de janelas)
+
+- [Photoshop 1.0](https://tecnoblog.net/124257/photoshop-1-codigo-fonte/) - editor de imagem
+
+- [Beyond Compare](https://en.wikipedia.org/wiki/Beyond_Compare) - utilitário para comparação de dados
+
+- [Cartes du Ciel](https://en.wikipedia.org/wiki/Cartes_du_Ciel "Cartes du Ciel") e [HNSKY](https://en.wikipedia.org/wiki/HNSKY "HNSKY") - mapas astronômicos
+
+- [Cheat Engine](https://en.wikipedia.org/wiki/Cheat_Engine "Cheat Engine") - scanner de memória, editor hex, e debugger
+
+- [D_2D & D_3D](https://en.wikipedia.org/wiki/Test_functions_for_optimization#Test_functions_for_constrained_optimization "Test functions for optimization") - plotagem de gráficos
+
+- [Double Commander](https://en.wikipedia.org/wiki/Double_Commander) - gerenciador de arquivos
+
+- [MeKin2D](https://en.wikipedia.org/wiki/Linkage_(mechanical)#Image_gallery "Linkage (mechanical)") - aplicações de cinemática
+
+- [Morfik](https://en.wikipedia.org/wiki/Morfik "Morfik") - desenvolvimento usando AJAX
+
+- [MyNotex](https://en.wikipedia.org/wiki/MyNotex) - bloco de notas
+
+- [FL Studio](https://pt.wikipedia.org/wiki/FL_Studio) - estação de trabalho de áudio digital
+
+- Outras: Smart Mobile Studio, Code to flowchart, BeyondCompare, Personal Finances Pro, Balabolka, ImgBurn, WordWeb, TurboAccelerator for Sony external HDD, Amara FlashNews Ticker, USB Virus Scan, TimeLeft, Verse Perfect, ShellToys, WhiteStarUML, PSPad, IZArc, Guitar Pro, HeidiSQL, HJSplit, Age of Wonders II, AIMP, GameMaker
+
+
+## LINKS ÚTEIS
+
+- Apostila de Técnicas de Programação e Linguagem Pascal - Sérgio Rodrigues
+    - https://www.cos.ufrj.br/~sergio/ApostilaPascal.pdf
+- Compiladores online
+    - https://www.onlinegdb.com/online_pascal_compiler
+    - https://www.tutorialspoint.com/compile_pascal_online.php
+- Relação de opções de compilação do Freepascal
+    - https://www.freepascal.org/docs-html/current/user/userap1.html

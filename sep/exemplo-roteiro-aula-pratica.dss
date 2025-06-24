@@ -1,0 +1,34 @@
+Set DefaultBaseFrequency=60  !! Define frequência de 60Hz
+Set Datapath=C:\ODSS\        !! Define o caminho dos arquivos
+clear
+new circuit.example basekV=12.47 pu=1.0 angle=0 frequency=60 phases=3
+
+!! Transformador
+new transformer.Sub phases=3 windings=2 buses=(B2, B3)
+    conns=(delta, wye) kvs=(12.47, 2.4) kvas=(2000, 2000) %loadloss=0 xhl=6
+
+!! Linha
+!! rmatrix = [R11 | R21 R22| R31 R32 R33]
+!! xmatrix = [X11 | X21 X22| X31 X32 X33]
+!! cmatrix = [C11 | C21 C22| C31 C32 C33]
+new linecode.ABC nphases=3 units=km
+rmatrix=[ 0.1414 0.0361 0.0361 | 0.0361 0.1414 0.0361 | 0.0361 0.0361 0.1414 ]
+xmatrix=[ 0.5353 0.3225 0.2752 | 0.3225 0.5353 0.2955 | 0.2752 0.2955 0.5353 ]
+new line.line2 bus1=B3 bus2=B4 length=2 phases=3 units=km linecode=ABC
+
+new linecode.ABC2 nphases=3 units=km
+rmatrix=[ 0.1414 0.0361 0.0361 | 0.0361 0.1414 0.0361 | 0.0361 0.0361 0.1414 ]
+xmatrix=[ 0.5353 0.3225 0.2752 | 0.3225 0.5353 0.2955 | 0.2752 0.2955 0.5353 ]
+new line.line1 bus1=sourcebus bus2=B2 length=2 phases=3 units=km linecode=ABC2
+
+!! Carga
+new load.CARGAA bus1=B4.1 phases=1 kV=0.127 kW=700  kvar=400 model=1 conn=wye
+new load.CARGAB bus1=B4.2 phases=1 kV=0.127 kW=900  kvar=500 model=1 conn=wye
+new load.CARGAC bus1=B4.3 phases=1 kV=0.127 kW=1200 kvar=400 model=1 conn=wye
+
+set voltagebases=[12.47 2.4 0.22]
+calcVoltageBases
+set controlmode=static
+set mode=snapshot
+solve
+
